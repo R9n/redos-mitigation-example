@@ -1,0 +1,25 @@
+{
+  "name": "redos-simple-example-mitigation",
+  "version": "1.0.0",
+  "description": "this repository was used in my dev.to article about redos and how we can counter this risk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "redos",
+    "dos",
+    "re",
+    "owasp",
+    "ddos",
+    "nodejs",
+    "javascript",
+    "regex"
+  ],
+  "author": "Ronaldo Modesto Ponciano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
